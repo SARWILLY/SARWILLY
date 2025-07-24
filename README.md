@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Wisdom ☁️🎓</h1>
 <h3 align="center">Aspiring Cloud Practitioner | DevOps Explorer | Always Learning</h3>
 
-![Dynamic Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=520&lines=“Every+cloud+has+a+silver+lining.”;“Learn.+Build.+Repeat.”+;“Cloud+is+an+adventure—I’m+here+for+it.”;“Ideas+shape+the+world.”+;“Stay+curious.+Stay+cloudy.”+;“Innovation+is+the+fuel—cloud+is+the+engine.”+;“Code+is+the+tool—vision+is+the+fuel.”+;“Clouds+aren’t+barriers;+they’re+launchpads.”+;“Automation+isn’t+just+efficiency—it’s+creativity+on+repeat.”+;“Every+project+starts+with+curiosity+and+ends+with+growth.”+;“Ideas+shape+the+world,+but+boldness+builds+it.”+;“In+the+cloud,+failure+is+just+another+deployment+away+from+progress.”+;“Version+control+isn’t+just+for+code—it’s+for+who+I’m+becoming.”+;“My+favorite+environment+variable?+Curiosity.”)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=0099FF&center=true&vCenter=true&width=520&lines=“Every+cloud+has+a+silver+lining.”;“Learn.+Build.+Repeat.”+;“Cloud+is+an+adventure.+I’m+here+for+it.”;“Ideas+shape+the+world.”+;“Stay+curious.+Stay+cloudy.”;“Innovation+is+the+fuel.+Cloud+is+the+engine.”+;“Code+is+the+tool.+Vision+is+the+fuel.”+;“Clouds+aren’t+barriers,+they’re+launchpads.”+;“Automation+isn’t+just+efficiency,;it’s+creativity+on+repeat.”+;“Every+project+starts+with+curiosity;+and+ends+with+growth.”+;“Ideas+shape+the+world,+but+boldness+builds+it.”+;“In+the+cloud,+failure+is+just+another;+deployment+away+from+progress.”+;“Version+control+isn’t+just+for+code,;it’s+for+who+I’m+becoming.”+;“My+favorite+environment+variable?+Curiosity.”" alt="Dynamic Typing Quotes">
+</p>
 
 ---
 
