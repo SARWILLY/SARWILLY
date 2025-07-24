@@ -8,7 +8,7 @@
 ---
 
 ## 🙋‍♂️ Personal Bio
-I'm Wisdom, a curious and motivated cloud enthusiast from Nigeria. I’m currently navigating the exciting world of cloud computing as a student—exploring AWS and Azure, experimenting with projects, and constantly learning how to build secure, scalable, and efficient systems. My goal is to turn complex cloud ideas into practical solutions, while keeping my passion for growth and collaboration alive. When I’m not buried in documentation, I’m either tinkering with infrastructure or dreaming up automation workflows. ☁️💻
+I'm Wisdom, a curious and motivated cloud enthusiast from Nigeria. I’m currently navigating the exciting world of cloud computing as a student; exploring AWS and Azure, experimenting with projects, and constantly learning how to build secure, scalable, and efficient systems. My goal is to turn complex cloud ideas into practical solutions, while keeping my passion for growth and collaboration alive. When I’m not buried in documentation, I’m either tinkering with infrastructure or dreaming up automation workflows. ☁️💻
 
 ---
 
